@@ -5,12 +5,9 @@ file changed
 
 change 1-to fix bug
 
-
 changed to get conflict
 
 change to fix bug
 
 modified for three way merge
-
-changed by teammate
 
