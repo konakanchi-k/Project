@@ -12,3 +12,5 @@ change to fix bug
 modified for three way merge
 
 changed to check stash
+
+changed to check oriigin flag
