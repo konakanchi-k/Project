@@ -1,9 +1,14 @@
 Hello World program
 
-file changeds
+file changed
 
 
 change-to fix bug
 
 
 changed to get conflict
+
+change to fix bug
+
+modified for three way merge
+
