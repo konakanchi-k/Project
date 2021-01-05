@@ -4,3 +4,6 @@ file changeds
 
 
 change-to fix bug
+
+
+changed to get conflict
