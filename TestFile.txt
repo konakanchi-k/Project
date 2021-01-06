@@ -3,3 +3,6 @@ This is File1.txt
 Changed the File for first time
 
 Changed the File in master branch to check rebase
+
+Changed the file in idea branch
+
